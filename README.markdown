@@ -1,3 +1,4 @@
+Testing-MIchael 2011.8.28.04:45 pm
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
